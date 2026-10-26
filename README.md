@@ -4,7 +4,7 @@
 
 ![Sunset Courts gameplay](media/preview.gif)
 
-▶ **[Watch the highlights](media/highlights.mp4)** (35 s, 1080p)
+▶ **[Watch the highlights](media/highlights.mp4)** (33 s, 1080p)
 
 ## Play
 
