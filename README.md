@@ -4,13 +4,13 @@
 
 ![Sunset Courts gameplay](media/preview.gif)
 
-▶ **[Watch the highlights](media/highlights.mp4)** (33 s, 1080p)
+▶ **[Play it in your browser](https://jasonmayg.github.io/sunset-courts/)** · **[Watch the highlights](media/highlights.mp4)** (33 s, 1080p)
 
 ## Play
 
 Open `index.html` in any modern browser. It's a single file with no build step and no install. three.js loads from a CDN.
 
-To host it, turn on GitHub Pages for this repo (Settings → Pages → deploy from `main`, root). The game will be live at `https://jasonmayg.github.io/sunset-courts/`.
+It's live at **https://jasonmayg.github.io/sunset-courts/**, served by GitHub Pages from `main`.
 
 ## Modes
 
